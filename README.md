@@ -9,7 +9,7 @@ Before:
 
 ![](http://blog.atrac613.io/wp-content/uploads/2011/10/2011-10-15_1753-154x300.png)
 
-After
+After:
 
 ![](http://blog.atrac613.io/wp-content/uploads/2011/10/2011-10-15_1845-154x300.png)
 
