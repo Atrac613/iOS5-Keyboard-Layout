@@ -34,10 +34,7 @@
 {
     [super viewDidLoad];
     
-    // Workaroud for iOS5.
-    if (&UIKeyboardWillChangeFrameNotification != nil) {
-        [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(keyboardChanged:) name:UIKeyboardWillChangeFrameNotification object:nil];
-    }
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(keyboardChanged:) name:UIKeyboardWillShowNotification object:nil];
 	
     [textView becomeFirstResponder];
 }

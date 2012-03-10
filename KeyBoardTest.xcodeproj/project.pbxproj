@@ -429,6 +429,7 @@
 				06C7EAD714497D1E0028624B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		06C7EAD814497D1E0028624B /* Build configuration list for PBXNativeTarget "KeyBoardTestTests" */ = {
 			isa = XCConfigurationList;
@@ -437,6 +438,7 @@
 				06C7EADA14497D1E0028624B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
